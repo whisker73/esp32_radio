@@ -160,6 +160,7 @@
 //#define ILI9341                      // ILI9341 240*320
 //#define NEXTION                      // Nextion display. Uses UART 2 (pin 16 and 17)
 //
+#include <Arduino.h>
 #include <nvs.h>
 #include <PubSubClient.h>
 #include <WiFiMulti.h>
