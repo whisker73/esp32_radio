@@ -179,6 +179,8 @@
 #include <driver/adc.h>
 #include <Update.h>
 
+void scan_content_length ( const char* metalinebf );
+
 // Number of entries in the queue
 #define QSIZ 400
 // Debug buffer size
